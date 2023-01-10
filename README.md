@@ -1,5 +1,5 @@
 # Reinforcement Learning Study using OpenAI Lunar Lander
-Personal Study of Various RL algorithm on the OpenAI Lunar Lander module.
+Personal Study of Various RL algorithm on the OpenAI Lunar Lander module using PyTorch.
 
 Largely under construction.
 
